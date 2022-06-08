@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exercise11</string>
+    <string name="menu_ajout">ADD</string>
+    <string name="ok">OK</string>
+    <string name="erreur_vitesse">La vitesse est plus petite que la limite permise.</string>
+    <string name="strLabelNom">Nom:</string>
+    <string name="strErreurChamp">Entrez tous les champs correctement</string>
+    <string name="strLabelPrenom">Prenom:</string>
+    <string name="strLabelZone">Zone:</string>
+    <string name="strLabelZoneScolaire">Zone de travaux ou scolaire</string>
+    <string name="strLabelMontantAmende">Montant de l\'amende:</string>
+    <string name="strLabelVitesse">Vitesse:</string>
+    <string name="strNomPrenom">Nom/Prenom</string>
+    <string name="strDate">Date</string>
+    <string name="strMontant">Montant</string>
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+    <string name="winter_session">Winter session</string>
+    <string name="exam_3">Exam 3</string>
+    <string name="result_x_100">Result (x / 100)</string>
+    <string name="exam_1">Exam 1</string>
+    <string name="exam_2">Exam 2</string>
+    <string name="number">Number</string>
+    <string name="average">Average</string>
+    <string name="montant">Montant</string>
+</resources>
